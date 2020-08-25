@@ -32,6 +32,9 @@
     "import/prefer-default-export": "off",
     "react/prop-types": "off",
     "no-unused-expressions": "off",
+    "operator-assignment":"off",
+    "consistent-return":"off",
+    "array-callback-return":"off",
     "react/jsx-props-no-spreading": "off",
     "@typescript-eslint/camelcase": "off",
     "@typescript-eslint/explicit-function-return-type": [
